@@ -12,6 +12,6 @@
 how the .score method from pandas measure the accuracy? 
 
 ## The answer is : 
-The method computes the accuracy score by default.
+The method computes the accuracy score by default.Is simply a shorthand to calculate R2 since it is commonly used to assess the performance of a regressor.
 
 https://www.kaggle.com/getting-started/27261
