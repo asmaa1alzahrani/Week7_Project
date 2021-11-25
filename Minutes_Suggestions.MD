@@ -11,7 +11,7 @@
 ## The most important Question is:
 how the .score method from pandas measure the accuracy? 
 
-# The answer is : 
+## The answer is : 
 The method computes the accuracy score by default.
 
 https://www.kaggle.com/getting-started/27261
